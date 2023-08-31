@@ -23,4 +23,6 @@ THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
 
+https://schorij23.github.io/week-2-challenge/
+
 ![Jeff Schori Portfolio](https://github.com/schorij23/week-2-challenge/assets/5600528/c8e36dda-31f2-4097-bbdd-2dcada5d7423)
