@@ -97,6 +97,7 @@ h3 {
     text-align: center;
       
 }
+/* flex display placeholder for responsive layout */
 .placeholder {
     display: flex;
     justify-content: space-evenly;
