@@ -25,4 +25,5 @@ THEN I am presented with a responsive layout that adapts to my viewport
 
 https://schorij23.github.io/week-2-challenge/
 
-![Jeff Schori Portfolio](https://github.com/schorij23/week-2-challenge/assets/5600528/c8e36dda-31f2-4097-bbdd-2dcada5d7423)
+
+![Screenshot 2023-10-05 at 21-00-57 Jeff Schori Portfolio](https://github.com/schorij23/week-2-challenge/assets/5600528/28f8430c-2e33-445e-a088-5c9edd78d10c)
